@@ -1,12 +1,13 @@
 ---
-title: "Something Borrowed: A Free Wedding Exchange"
+title: "Something Borrowed"
+subtitle: "A Free Wedding Exchange"
 ---
 
 ### Welcome!
 
 Something Borrowed is a free, community-based wedding exchange that strives to reduce both waste and costs for individuals planning weddings, while also building stronger communities.
 
-Find a Something Borrowed community in your city to give away or ask for items related to weddings and wedding planning! 
+Find a Something Borrowed community in your city to give away or ask for items related to weddings and wedding planning!
 
 [Join our Slack](https://somethingborrowedx.slack.com/)
 
@@ -16,8 +17,7 @@ Find a Something Borrowed community in your city to give away or ask for items r
 
 -   Seattle, Washington
 
-### FAQs  
+### FAQs
 
--   There isn't currently a Something Borrowed Community where I live. Can I help start one?  
-Yes! We would love to expand Something Borrowed to more locations. Please join our slack and reach out to our Co-founders to talk about next steps. 
-
+**There isn't currently a Something Borrowed Community where I live. Can I help start one?**\
+Yes! We would love to expand Something Borrowed to more locations. Please join our slack and reach out to our Co-founders to talk about next steps.
