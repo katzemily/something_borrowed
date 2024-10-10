@@ -5,6 +5,7 @@ website:
   title: "Something Borrowed"
   description: "A free, community-based, wedding exchange"
   navbar:
+    logo: SomethingBorrowedLogo_Simplified.jpeg
     left:
       - href: index.qmd
         text: Home
@@ -14,15 +15,17 @@ website:
         href: https://somethingborrowedx.slack.com/
       - icon: github
         href: https://github.com/katzemily/something_borrowed
-    background: "#b5ced3"
-    foreground: black
+    # background: "#b5ced3"
+    # foreground: black
     
 format:
   html:
-    theme: cosmo
-    fontcolor: black
-    linkcolor: "#AE78BF"
-    css: styles.css
+    theme: 
+      - lux
+      - styles.scss
+    # fontcolor: black
+    # linkcolor: "#AE78BF"
+    # css: styles.css
     toc: true
 
 editor: visual

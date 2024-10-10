@@ -1,0 +1,47 @@
+/*-- scss:defaults --*/
+
+// Colors 
+$light-blue: #D6E7EA;
+$borrowedblue: #b2cdd3;
+$black: #0b1311;
+$gray: #717b7e;
+$purple: #835B90; // #917A98
+$cream: #F3F3EA; // #f1f1e5 #F9F9F5 #F5F5EC
+
+// Base website colors
+$navbar-bg: $cream; // navbar
+$navbar-fg: $black; // navbar foreground elements
+$navbar-hl: $gray; // highlight color when hovering over navbar links
+$body-bg: $light-blue; // page background
+$body-color: $black; // page text
+$link-color: $purple; // hyperlinks
+
+
+/*-- scss:rules --*/
+
+// Buttons
+.btn.btn-light {
+  background: $cream;
+  border-color: $cream;
+}
+
+// Logo
+.navbar-logo {
+  max-height: 5vh;
+}
+
+// Nav bar 
+.navbar {
+  padding-top: 1.5vh;
+  padding-bottom: 1.5vh;
+}
+
+
+//.navbar {
+//  height: 8vh;
+//}
+
+//.navbar .navbar-brand,
+//.navbar .navbar-nav .nav-link {
+//  line-height: 8vh;
+//}
