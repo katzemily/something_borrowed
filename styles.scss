@@ -29,16 +29,21 @@ $link-color: $purple; // hyperlinks
 //.navbar-logo {
 //  box-sizing: border-box;
 //}
+.navbar-logo {
+  max-height: 5vh;
+  max-width: 100%;
+  height: auto;
+}
 
 //   max-height: 5vh;
 
 // Nav bar 
-.navbar {
-  padding-top: 1.5vh;
-  padding-bottom: 1.5vh;
-  padding-left: .5vh;
-  padding-right: .5vh;
-}
+//.navbar {
+//  padding-top: 1.5vh;
+//  padding-bottom: 1.5vh;
+//  padding-left: .5vh;
+//  padding-right: .5vh;
+//}
 
 
 //.navbar {
