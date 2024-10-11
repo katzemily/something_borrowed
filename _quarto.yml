@@ -7,6 +7,7 @@ website:
   favicon: circle_logo_border.png
   navbar:
     logo: circle_logo_border.png
+    logo-alt: "Two horizontal hands, one facing down and one facing up, as if one was giving something to the other"
     left:
       - href: index.qmd
         text: Home
