@@ -4,8 +4,9 @@ project:
 website:
   title: "Something Borrowed"
   description: "A free, community-based, wedding exchange"
+  favicon: circle_logo_border.png
   navbar:
-    logo: SomethingBorrowedLogo_Simplified.jpeg
+    logo: circle_logo_border.png
     left:
       - href: index.qmd
         text: Home
