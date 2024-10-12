@@ -34,7 +34,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -136,29 +135,26 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+
+
+
+<div class="quarto-about-jolla">
+  <img src="SomethingBorrowedLogo.png" class="about-image
+  round " style="height: 17em; width: 17em;">
+ <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Something Borrowed</h1>
 <p class="subtitle lead">A Free Wedding Exchange</p>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-  
-    
   </div>
-  
-
-
-</header>
-
+</header><div id="hero-heading">
+</div>  
+</div>
 
 <section id="welcome" class="level3">
-<h3 class="anchored" data-anchor-id="welcome">Welcome!</h3>
-<p>Something Borrowed is a free, community-based wedding exchange that strives to reduce both waste and costs for individuals planning weddings, while also building stronger communities.</p>
+<h3 data-anchor-id="welcome">Welcome!</h3>
+<p>Something Borrowed is a free, community-based wedding item exchange that strives to reduce both waste and costs for individuals planning weddings, while also building stronger communities.</p>
 <p>Find a Something Borrowed community in your city to give away or ask for items related to weddings and wedding planning!</p>
 <button type="button" class="btn btn-light">
 <a href="https://join.slack.com/t/somethingborrowedx/shared_invite/zt-2qv9376vb-E0w~RY~EJhohdCQ3NyIfrw">Join our Slack</a>
@@ -167,17 +163,22 @@ ul.task-list li input[type="checkbox"] {
 <button type="button" class="btn btn-light"><a href="https://somethingborrowedx.slack.com/">Go to Slack</a></button></p>
 </section>
 <section id="current-locations" class="level3">
-<h3 class="anchored" data-anchor-id="current-locations">Current Locations</h3>
+<h3 data-anchor-id="current-locations">Current Locations</h3>
 <ul>
 <li><p>Portland, Oregon</p></li>
 <li><p>Seattle, Washington</p></li>
 </ul>
 </section>
 <section id="faqs" class="level3">
-<h3 class="anchored" data-anchor-id="faqs">FAQs</h3>
+<h3 data-anchor-id="faqs">FAQs</h3>
 <section id="there-isnt-currently-a-something-borrowed-community-where-i-live.-can-i-help-start-one" class="level5">
-<h5 class="anchored" data-anchor-id="there-isnt-currently-a-something-borrowed-community-where-i-live.-can-i-help-start-one">There isn’t currently a Something Borrowed Community where I live. Can I help start one?</h5>
+<h5 data-anchor-id="there-isnt-currently-a-something-borrowed-community-where-i-live.-can-i-help-start-one">There isn’t currently a Something Borrowed Community where I live. Can I help start one?</h5>
 <p>Yes! We would love to expand Something Borrowed to more locations. Please join our slack and reach out to our Co-founders to talk about next steps.</p>
+</section>
+<section id="im-having-trouble-joining-the-slack.-who-can-i-contact-for-help" class="level5">
+<h5 data-anchor-id="im-having-trouble-joining-the-slack.-who-can-i-contact-for-help">I’m having trouble joining the Slack. Who can I contact for help?</h5>
+<p>Please email erkatz323@gmail.com with the subject line “Something Borrowed Help” for assistance.</p>
+
 
 
 </section>
@@ -204,13 +205,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

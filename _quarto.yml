@@ -1,9 +1,12 @@
 project:
   type: website
+  
+execute: 
+  freeze: auto
 
 website:
   title: "Something Borrowed"
-  description: "A free, community-based, wedding exchange"
+  description: "A free, community-based, wedding item exchange"
   favicon: circle_logo_border.png
   navbar:
     logo: circle_logo_border.png

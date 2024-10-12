@@ -1,18 +1,30 @@
 ---
 title: "Something Borrowed"
 subtitle: "A Free Wedding Exchange"
+image: SomethingBorrowedLogo.png
+
+about:
+  id: hero-heading
+  template: jolla
+  image-shape: round
+  image-width: 17em
+
+  
+
 ---
+
+::: {#hero-heading}
+:::
 
 ### Welcome!
 
-Something Borrowed is a free, community-based wedding exchange that strives to reduce both waste and costs for individuals planning weddings, while also building stronger communities.
+Something Borrowed is a free, community-based wedding item exchange that strives to reduce both waste and costs for individuals planning weddings, while also building stronger communities.
 
 Find a Something Borrowed community in your city to give away or ask for items related to weddings and wedding planning!
 
 <button type="button" class="btn btn-light">[Join our Slack](https://join.slack.com/t/somethingborrowedx/shared_invite/zt-2qv9376vb-E0w~RY~EJhohdCQ3NyIfrw)</button> <br>
 Already a member?  
 <button type="button" class="btn btn-light">[Go to Slack](https://somethingborrowedx.slack.com/)</button>
-
 
 
 ### Current Locations
@@ -25,4 +37,8 @@ Already a member?
 
 ##### There isn't currently a Something Borrowed Community where I live. Can I help start one? 
 
-Yes! We would love to expand Something Borrowed to more locations. Please join our slack and reach out to our Co-founders to talk about next steps.
+Yes! We would love to expand Something Borrowed to more locations. Please join our slack and reach out to our Co-founders to talk about next steps.  
+
+##### I'm having trouble joining the Slack. Who can I contact for help?  
+
+Please email erkatz323@gmail.com with the subject line "Something Borrowed Help" for assistance.
