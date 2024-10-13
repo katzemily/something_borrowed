@@ -20,17 +20,13 @@ website:
         href: https://somethingborrowedx.slack.com/
       - icon: github
         href: https://github.com/katzemily/something_borrowed
-    # background: "#b5ced3"
-    # foreground: black
+  page-footer: This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html), [{{< fa brands github title="Github" >}}](https://github.com/katzemily/something_borrowed), and [Quarto](https://quarto.org/).
     
 format:
   html:
     theme: 
       - lux
       - styles.scss
-    # fontcolor: black
-    # linkcolor: "#AE78BF"
-    # css: styles.css
     toc: true
 
 editor: visual
