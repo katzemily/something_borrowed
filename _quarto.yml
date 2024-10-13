@@ -22,7 +22,8 @@ website:
         href: https://github.com/katzemily/something_borrowed
   page-footer: This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html), [{{< fa brands github title="Github" >}}](https://github.com/katzemily/something_borrowed), and [Quarto](https://quarto.org/).
   open-graph: true
-  google-analytics: "G-TQKQDERBKE"
+  google-analytics: 
+    tracking-id: "G-TQKQDERBKE"
   cookie-consent: true
     
 format:
