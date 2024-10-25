@@ -8,6 +8,12 @@ about:
   links:
     - text: Email Us
       href: mailto:erkatz323@gmail.com
+    - icon: linkedin
+      text: Emily's LinkedIn
+      href: https://linkedin.com/in/emilykatzton
+    - icon: linkedin
+      text: Gwen's LinkedIn
+      href: https://linkedin.com/in/gwenbartholomay/
 ---
 
 Something Borrowed was founded by two friends, Gwen & Emily. They first met attending the same college, but didn't become close friends until they studied abroad for a semester in Prague as part of the same program. These days, Emily lives in Portland, and Gwen lives in Seattle, but they share a strong interest in sustainability and community-building and love having a project to work on together.
