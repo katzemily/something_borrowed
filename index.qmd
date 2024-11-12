@@ -33,6 +33,17 @@ Already a member?
 
 <button type="button" class="btn btn-light">[Go to Slack](https://somethingborrowedx.slack.com/)</button>
 
+### Community Guidelines  
+
+-   Nothing can be purchased, sold, or traded. Instead offer, ask, or borrow.
+-   Be honest (about the condition of your goods, who you are, etc.).
+-   Only offer items that are legal. If an item is age restricted (e.g., alcohol), please do not offer it.
+-   Be gender inclusive (don't assume people are marrying someone of the opposite sex; don't assume only brides are in this community; use the pronouns people list in their profile).
+-   You can join more than one channel if you're willing to drive further, but you must post any offers in the channel closest to where you live.
+-   Self-promotion and advertising is not allowed. Please use this for your individual needs, not your business needs. 
+-   Harassment and discrimination will not be tolerated.
+-   If a moderator suspects you have acted outside of the community guidelines, you will either receive a warning or be removed depending on severity. 
+
 ### FAQs
 
 ##### There isn't currently a Something Borrowed Community where I live. Can I help start one? 
