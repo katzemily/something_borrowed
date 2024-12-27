@@ -7,7 +7,7 @@ about:
   image-width: 17em
   links:
     - text: Email Us
-      href: mailto:erkatz323@gmail.com
+      href: mailto:sbweddingexchange@gmail.com
     - icon: linkedin
       text: Emily's LinkedIn
       href: https://linkedin.com/in/emilykatzton
