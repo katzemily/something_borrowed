@@ -18,6 +18,8 @@ website:
     right: 
       - icon: slack
         href: https://somethingborrowedx.slack.com/
+      - icon: instagram
+        href: https://www.instagram.com/sb_wedding_exchange?igsh=MWJoNGd4N25jdW9wOQ==
       - icon: github
         href: https://github.com/katzemily/something_borrowed
   page-footer: This website is built with [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html), [{{< fa brands github title="Github" >}}](https://github.com/katzemily/something_borrowed), and [Quarto](https://quarto.org/).
