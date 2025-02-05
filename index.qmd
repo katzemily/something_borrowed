@@ -28,7 +28,7 @@ Find a Something Borrowed community in your city to give away or ask for items r
 
 -   Seattle, Washington
 
-<button type="button" class="btn btn-light">[Join our Slack](https://join.slack.com/t/somethingborrowedx/shared_invite/zt-2qv9376vb-E0w~RY~EJhohdCQ3NyIfrw)</button> <br>
+<button type="button" class="btn btn-light">[Join our Slack](https://airtable.com/appXc1jGJLZweRSbH/pagVgloaEgZbrNbM2/form)</button> <br>
 Already a member?  
 
 <button type="button" class="btn btn-light">[Go to Slack](https://somethingborrowedx.slack.com/)</button>
@@ -46,9 +46,11 @@ Already a member?
 
 ### FAQs
 
-##### There isn't currently a Something Borrowed Community where I live. Can I help start one? 
+##### There isn't currently a Something Borrowed Community where I live. When will you be expanding to my city?
 
-Yes! We would love to expand Something Borrowed to more locations. Please join our slack and reach out to our Co-founders to talk about next steps.  
+We would love to expand Something Borrowed to more locations. Please fill out the interest form below and let us know where we should go next!  
+
+<button type="button" class="btn btn-light">[Interest Form](https://airtable.com/appXc1jGJLZweRSbH/pag4Fk8La0v44z13r/form)</button><br>
 
 ##### I'm having trouble joining the Slack. Who can I contact for help?  
 

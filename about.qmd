@@ -8,6 +8,9 @@ about:
   links:
     - text: Email Us
       href: mailto:sbweddingexchange@gmail.com
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/sb_wedding_exchange?igsh=MWJoNGd4N25jdW9wOQ==
     - icon: linkedin
       text: Emily's LinkedIn
       href: https://linkedin.com/in/emilykatzton
