@@ -35,14 +35,19 @@ Already a member?
 
 ### Community Guidelines  
 
--   Nothing can be purchased, sold, or traded. Instead offer, ask, or borrow.
--   Be honest (about the condition of your goods, who you are, etc.).
--   Only offer items that are legal. If an item is age restricted (e.g., alcohol), please do not offer it.
--   Be gender inclusive (don't assume people are marrying someone of the opposite sex; don't assume only brides are in this community; use the pronouns people list in their profile).
--   You can join more than one channel if you're willing to drive further, but you must post any offers in the channel closest to where you live.
--   Self-promotion and advertising is not allowed. Please use this for your individual needs, not your business needs. 
--   Harassment and discrimination will not be tolerated.
--   If a moderator suspects you have acted outside of the community guidelines, you will either receive a warning or be removed depending on severity. 
+*   Nothing can be purchased, sold, or traded. Instead offer, ask, or borrow.
+*   Be honest (about the condition of your goods, who you are, etc.).
+*   Only offer items that are legal. If an item is age restricted (e.g., alcohol), please do not offer it.  
+*   Make sure you're using the correct channel. We will remove your post if you use the incorrect channel.  
+    + All item exchanges should be in a city-specific channel (e.g., #wa-seattle-exchange)  
+    + All introductions should be in the #introductions channel  
+    + All advice or recommendations should be in the #advice channel  
+    + Ask the moderators for help in #ask-moderator  
+*   Be gender inclusive (don't assume people are marrying someone of the opposite sex; don't assume only brides are in this community; use the pronouns people list in their profile).
+*   You can join more than one channel if you're willing to drive further, but you must post any offers in the channel closest to where you live.
+*   Self-promotion and advertising is not allowed. Please use this for your individual needs, not your business needs. 
+*   Harassment and discrimination will not be tolerated.
+*   If a moderator suspects you have acted outside of the community guidelines, you will either receive a warning or be removed depending on severity. 
 
 ### FAQs
 
@@ -51,6 +56,14 @@ Already a member?
 We would love to expand Something Borrowed to more locations. Please fill out the interest form below and let us know where we should go next!  
 
 <button type="button" class="btn btn-light">[Interest Form](https://airtable.com/appXc1jGJLZweRSbH/pag4Fk8La0v44z13r/form)</button><br>
+
+##### I'm a wedding vendor/professional - is it okay for me to join?  
+
+Yes, absolutely! Our only ask of wedding professionals is that you don’t ask for items that you later intend to sell or rent. If you are getting an item that you can use in your business or use for a client’s wedding, that’s allowed, but we hope you will consider offering up items any time you’re done using them or have an excess of items left over after a wedding.  
+
+##### I have items to give that might be useful for a wedding, but I'm not married/recently married - is it okay for me to join?  
+
+Yes, absolutely! Anyone with items to gift that might be useful for a wedding is welcome to join. This can mean a wide range of items, but some examples might include: decor, DIY/crafting materials, bar or catering related items, floral supplies, etc. 
 
 ##### I'm having trouble joining the Slack. Who can I contact for help?  
 
