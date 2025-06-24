@@ -1,0 +1,15 @@
+---
+title: "Connect"
+about:
+  template: jolla
+---
+
+::: {.text-center}
+<i class="fa-regular fa-newspaper"></i> [Subscribe](https://airtable.com/appXc1jGJLZweRSbH/pagkA076KhX8YpGt9/form) to our email list to receive (occasional!) updates about Something Borrowed
+
+<i class="fa-regular fa-envelope"></i> [Email](mailto:sbweddingexchange@gmail.com) us at sbweddingexchange\@gmail.com with questions, ideas, or to partner with us!
+
+<i class="bi bi-instagram"></i> Follow us on [Instagram](https://www.instagram.com/sb_wedding_exchange?igsh=MWJoNGd4N25jdW9wOQ==)
+
+<i class="bi bi-facebook"></i> Like our [Facebook](https://www.facebook.com/people/Something-Borrowed-Exchange/61577763839645/) page
+:::

@@ -28,6 +28,8 @@ Find a Something Borrowed community in your city to give away or ask for items r
 
 -   Seattle, Washington
 
+-   Eugene, Oregon  
+
 <button type="button" class="btn btn-light">[Join our Slack](https://airtable.com/appXc1jGJLZweRSbH/pagVgloaEgZbrNbM2/form)</button> <br>
 Already a member?  
 

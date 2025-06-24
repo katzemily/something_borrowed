@@ -14,7 +14,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+      - href: connect.qmd
+        text: Connect
     right: 
       - icon: slack
         href: https://somethingborrowedx.slack.com/
