@@ -5,3 +5,4 @@ This repo is for a website built with Quarto for [Something Borrowed](https://so
 ### Current Locations  
 - Portland, Oregon
 - Seattle, Washington
+- Eugene, Oregon
