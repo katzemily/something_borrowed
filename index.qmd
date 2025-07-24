@@ -30,7 +30,7 @@ Find a Something Borrowed community in your city to give away or ask for items r
 
 -   Eugene, Oregon  
 
-<button type="button" class="btn btn-light">[Join our Slack](https://airtable.com/appXc1jGJLZweRSbH/pagVgloaEgZbrNbM2/form)</button> <br>
+<button type="button" class="btn btn-light">[Join our Slack](https://docs.google.com/forms/d/e/1FAIpQLSfla0_CaylQHo3FoOmEJcCMCL3UUwzt_nXpGYwbJxa-de9gIA/viewform?usp=header)</button> <br>
 Already a member?  
 
 <button type="button" class="btn btn-light">[Go to Slack](https://somethingborrowedx.slack.com/)</button>
@@ -69,4 +69,4 @@ Yes, absolutely! Anyone with items to gift that might be useful for a wedding is
 
 ##### I'm having trouble joining the Slack. Who can I contact for help?  
 
-Please go to our [About](https://somethingborrowedexchange.com/about.html) page and click the "Email Us" button. Use the subject line "Something Borrowed Help" in your email.
+Send us an email at sbweddingexchange@gmail.com! Use the subject line "Something Borrowed Help" in your email.
