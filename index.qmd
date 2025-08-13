@@ -57,7 +57,7 @@ Already a member?
 
 We would love to expand Something Borrowed to more locations. Please fill out the interest form below and let us know where we should go next!  
 
-<button type="button" class="btn btn-light">[Interest Form](https://airtable.com/appXc1jGJLZweRSbH/pag4Fk8La0v44z13r/form)</button><br>
+<button type="button" class="btn btn-light">[Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSf8vs3aD_nwaq7Qck9LeNdNgLUFFeCBv850-Xv49r_o1WH-iQ/viewform?usp=header)</button><br>
 
 ##### I'm a wedding vendor/professional - is it okay for me to join?  
 
