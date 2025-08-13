@@ -5,7 +5,7 @@ about:
 ---
 
 ::: {.text-center}
-<i class="fa-regular fa-newspaper"></i> [Subscribe](https://airtable.com/appXc1jGJLZweRSbH/pagkA076KhX8YpGt9/form) to our email list to receive (occasional!) updates about Something Borrowed
+<i class="fa-regular fa-newspaper"></i> [Subscribe](https://docs.google.com/forms/d/e/1FAIpQLSdHcxS3Fyy5o_M6PKKgt7ifVsd398B7VFOhV6YbSGBBFXcSWA/viewform?usp=header) to our email list to receive (occasional!) updates about Something Borrowed
 
 <i class="fa-regular fa-envelope"></i> [Email](mailto:sbweddingexchange@gmail.com) us at sbweddingexchange\@gmail.com with questions, ideas, or to partner with us!
 
