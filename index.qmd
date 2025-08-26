@@ -1,6 +1,6 @@
 ---
-title: "Something Borrowed"
-subtitle: "A Free Wedding Exchange"
+title: "Something Borrowed Exchange"
+subtitle: "The Free Wedding Item Exchange"
 image: SomethingBorrowedLogo.png
 toc: false
 
@@ -18,7 +18,7 @@ about:
 
 ### Welcome!
 
-Something Borrowed is a free, community-based wedding item exchange that strives to reduce both waste and costs for individuals planning weddings, while also building stronger communities.
+Something Borrowed Exchange is a free, community-based wedding item exchange that strives to reduce both waste and costs for individuals planning weddings, while also building stronger communities.
 
 Find a Something Borrowed community in your city to give away or ask for items related to weddings and wedding planning!
 
