@@ -32,7 +32,7 @@ Find a Something Borrowed community in your city to give away or ask for items r
 
 </button>
 
-<br> Already a member?
+<br> Already a member of Something Borrowed?
 
 <button type="button" class="btn btn-light">
 
