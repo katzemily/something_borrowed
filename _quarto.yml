@@ -19,8 +19,6 @@ website:
       - href: connect.qmd
         text: Connect
     right: 
-      - icon: slack
-        href: https://somethingborrowedx.slack.com/
       - icon: instagram
         href: https://www.instagram.com/sb_wedding_exchange?igsh=MWJoNGd4N25jdW9wOQ==
       - icon: github
