@@ -28,6 +28,12 @@ website:
   google-analytics: 
     tracking-id: "G-TQKQDERBKE"
   cookie-consent: true
+  announcement:
+    icon: megaphone
+    dismissable: true
+    content: "Coming Soon: Something Borrowed is launching on a new platform on April 6th!"
+    type: danger
+    position: above-navbar
     
 format:
   html:
