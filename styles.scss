@@ -7,22 +7,27 @@ $black: #0b1311;
 $gray: #717b7e;
 $purple: #835B90; // #917A98
 $cream: #F3F3EA; // #f1f1e5 #F9F9F5 #F5F5EC
+$off-white: #fff7f0;
+$lavender: #e2d6fc;
+$cobalt: #4844ea;
+$yellow: #fff99e;
+$dark-navy: #292947;
 
 // Base website colors
-$navbar-bg: $cream; // navbar
-$navbar-fg: $black; // navbar foreground elements
+$navbar-bg: $lavender; // navbar
+$navbar-fg: $cobalt; // navbar foreground elements
 $navbar-hl: $gray; // highlight color when hovering over navbar links
-$body-bg: $light-blue; // page background
-$body-color: $black; // page text
-$link-color: $purple; // hyperlinks
+$body-bg: $off-white; // page background
+$body-color: $dark-navy; // page text
+$link-color: $cobalt; // hyperlinks
 
 
 /*-- scss:rules --*/
 
 // Buttons
 .btn.btn-light {
-  background: $cream;
-  border-color: $cream;
+  background: $lavender;
+  border-color: $cobalt;
 }
 
 // Logo

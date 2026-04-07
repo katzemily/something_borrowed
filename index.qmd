@@ -1,7 +1,7 @@
 ---
 title: "Something Borrowed Exchange"
 subtitle: "The Free Wedding Item Exchange"
-image: SomethingBorrowedLogo.png
+image: SomethingBorrowed_Logo_Final_Colors_RBG_LogoMark_Blue.png
 toc: false
 
 about:

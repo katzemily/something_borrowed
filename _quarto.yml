@@ -7,9 +7,9 @@ execute:
 website:
   title: "Something Borrowed"
   description: "A free, community-based, wedding item exchange"
-  favicon: circle_logo_border.png
+  favicon: Circle_Sticker_Logo.png
   navbar:
-    logo: circle_logo_border.png
+    logo: SomethingBorrowed_Logo_Final_Colors_RBG_LogoMark_Blue.png
     logo-alt: "Two horizontal hands, one facing down and one facing up, as if one was giving something to the other"
     left:
       - href: index.qmd

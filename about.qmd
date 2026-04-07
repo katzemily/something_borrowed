@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: SomethingBorrowedLogo.png
+image: SomethingBorrowed_Logo_Final_Colors_RBG_LogoMark_Blue.png
 about:
   template: jolla
   image-shape: round
