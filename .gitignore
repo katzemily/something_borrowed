@@ -6,7 +6,6 @@
 .httr-oauth
 .DS_Store
 .quarto
-Analyze_data.R
 
 /.quarto/
 /_site/
