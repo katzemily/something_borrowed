@@ -120,7 +120,7 @@ member_upload_list <- member_subscriptions |>
 
 # Just grab the latest of these
 recent_member_upload_list <- member_upload_list |>
-  tail(3)
+  tail(8)
 
 
 email_addresses <- member_subscriptions |>
@@ -144,5 +144,5 @@ write_sheet(
 write_sheet(
   recent_member_upload_list,
   ss = email_subscriber_url,
-  sheet = "mar_17_upload"
+  sheet = "april_6_upload"
 )
